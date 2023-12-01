@@ -23,6 +23,9 @@ syntax on
 set cursorline
 
 set tabstop=4
+" Indent with '>' or '=' uses 4 spaces
+set shiftwidth=4
 set expandtab
+
 
 set visualbell
